@@ -6,6 +6,10 @@ coden = vsc(visual studio code) cli for Mac
 
 ## Install 
 
+安装之前请先安装vsc的mac版本，安装位置必须是`/Applications/Visual Studio Code.app`目录(标准安装即可)。
+
+然后执行
+
 ```
 [sudo] npm install -g coden
 ```
