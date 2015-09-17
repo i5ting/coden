@@ -2,6 +2,8 @@
 
 coden = vsc(visual studio code) cli for Mac 
 
+[![npm version](https://badge.fury.io/js/coden.svg)](http://badge.fury.io/js/coden)
+
 - visual studio code（简称vsc）https://code.visualstudio.com/
 
 ## Install 
