@@ -19,8 +19,8 @@ if ( argv.length > 1 ) {
   }
 }
 
-var s = "/Applications/Visual\\ Studio\\ Code.app/Contents/MacOS/Electron " + arg0
- 
+var s = "/Applications/Visual\\ Studio\\ Code.app/Contents/MacOS/Electron " + arg0 + "&"
+
 if( argv[1] == '-i'){
     console.log(s);
 }
